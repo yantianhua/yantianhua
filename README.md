@@ -1,16 +1,32 @@
-## Hi there 👋
+# 严天华
 
-<!--
-**yantianhua/yantianhua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CQMCU 教师 | 物联网 · 嵌入式 AI
 
-Here are some ideas to get you started:
+你好，我是严天华，任职于 CQMCU，主要关注物联网与嵌入式 AI 方向。喜欢把算法、设备与真实场景结合起来，探索可落地的智能系统。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 当前关注
+
+- 音频分类
+- 视频识别
+- 裂缝检测
+- 中医 AI
+- 蓝牙排队系统
+- 物联网边缘计算
+
+## 🛠️ 技能与工具
+
+- 编程语言：C、Python
+- 框架/工具：PyTorch
+- 研究方向：嵌入式 AI、物联网边缘计算
+
+## 📫 联系我
+
+- 邮箱：[572552443@qq.com](mailto:572552443@qq.com)
+
+## ✨ 关于我
+
+业余喜欢山水画，欣赏传统笔墨中的留白与意境。
+
+---
+
+欢迎交流物联网、嵌入式 AI 及相关应用。
